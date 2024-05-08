@@ -1,4 +1,5 @@
 # 🌿 Planthurium
+![Planthurium demo screenshot](planthurium.png)
 Planthuriums for anthurium enthusiasts and collectors! Explore our marketplace to buy, sell, or trade anthurium pollen and seedlings, connecting passionate growers worldwide!
 
 ## Try it out! 
